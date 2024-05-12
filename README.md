@@ -1,5 +1,5 @@
 #### Heya!🙂
-My name is Aaron Iziyaev, I'm a Software Engineering student from BGU 🐪.
+My name is Aaron Iziyaev, I'm a Software Engineering student at BGU 🐪.
 I'm passionate about backend development, research and just messing around with my "barely-breathing" mac-mini.
 
 - Currently have 2 private projects in the making along-side with a paper about a certain problem on graphs.
