@@ -5,4 +5,4 @@ I'm passionate about backend development, research and just messing around with 
 - Currently have 2 private projects in the making along-side with a paper about a certain problem on graphs.
 - One is a full-stack drive-cloud service which uses an iteresting conscept (to say the least).
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,github,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,github,py)](https://skillicons.dev)
